@@ -16,6 +16,7 @@ An intelligent desktop application that automatically organizes files into folde
 - watchdog
 - pystray
 - pillow
+- pyinstaller
 
 
 ### Steps
